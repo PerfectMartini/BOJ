@@ -1,6 +1,6 @@
 using System;
 
-namespace BOJ_C____
+namespace BOJ
 {
 	class Program
 	{
