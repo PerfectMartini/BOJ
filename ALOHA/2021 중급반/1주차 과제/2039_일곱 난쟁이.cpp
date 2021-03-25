@@ -6,6 +6,7 @@ int ki[9 + 1];
 int sum_ki;
 
 int main(void)
+
 {
 	for ( int i = 1; i <= 9; i++ )
 	{
